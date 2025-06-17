@@ -26,14 +26,11 @@
 
 <!-- Social Links with Hover Effects -->
 <div align="center">
-  <a href="https://linkedin.com/in/ammara-rajpoot-253b53283" target="blank">
+  <a href="https://www.linkedin.com/in/ammara-rajput-253b53283/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammara-rajpoot" height="30" width="40" />
   </a>
   <a href="mailto:mtasawor68@gmail.com" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="ammara-email" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yourdiscord" height="30" width="40" />
   </a>
 </div>
 
