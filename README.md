@@ -1,4 +1,4 @@
-<div align="center">
+<div bg="black" align="center">
 
 # 💫 About Me
 
@@ -53,14 +53,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atammara&theme=tokyonight&hide_border=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atammara&theme=tokyonight&hide_border=false&layout=compact)
 
----
-
-### 👁️ Visitors
-
-![Profile Views](https://visitcount.itsvg.in/api?id=atammara&label=Profile%20Views&color=12&icon=0&pretty=true)
 
 ---
-
-<sub><i>Made with ❤️ by Ammara | Designed with help from GPRM + ChatGPT ✨</i></sub>
 
 </div>
