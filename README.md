@@ -3,9 +3,20 @@
 <!-- Animated Gradient Banner -->
 ![MasterHead](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<!-- 3D Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=500&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ammara+Rajput;Full+Stack+Web+Developer;UI%2FUX+Designer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+<!-- Using alternative typing SVG source -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ammara+Rajput;Full+Stack+Web+Developer;UI%2FUX+Designer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+<!-- OR use this alternative if above doesn't work -->
+<!-- <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=500&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ammara+Rajput;Full+Stack+Web+Developer;UI%2FUX+Designer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /> -->
+
+<!-- Fallback static text if SVGs don't work -->
+<!--
+### Hi 👋, I'm Ammara Rajput
+#### Full Stack Web Developer | UI/UX Designer | AI Enthusiast | Open Source Contributor
+-->
+
 </div>
 
 <!-- Profile Views Counter -->
